@@ -17,6 +17,14 @@ Esta aplicación es un Pokédex interactivo que permite a los usuarios explorar 
 
 ### 7. **Estilos CSS**
 
+## Rutas
+- "/" Home (Inicio app)
+- "/favorites" (Pokemon favoritos)
+- "/pokemon/:id" (Detalle pokemon)
+
+
+
+
 
 ## Instalación
 
